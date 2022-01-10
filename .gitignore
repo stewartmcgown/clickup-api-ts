@@ -1,0 +1,5 @@
+openapi-generator-cli.jar
+wwwroot/*.js
+node_modules
+typings
+dist
